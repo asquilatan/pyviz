@@ -1,6 +1,8 @@
-# Pyviz
+<p align="center">
+   <img src="./public/pyviz_banner.png" alt="Pyviz Banner" style="margin: 10px auto;">   
+</p>
 
-<img src="./public/pyviz_banner.png" alt="Pyviz Banner" style="display: block; margin: 10px auto;">
+# Pyviz
 
 **Pyviz** is a web-based Python IDE with built-in code visualization capabilities. It allows you to write Python code and see its execution visualized step-by-step, providing a clear understanding of how your data structures change over time.
 
