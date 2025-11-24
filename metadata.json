@@ -1,0 +1,5 @@
+{
+  "name": "pyviz",
+  "description": "An IDE that visualizes Python code execution flow.",
+  "requestFramePermissions": []
+}
