@@ -4,10 +4,17 @@ export interface VariableValue {
   value: any; // Can be string, number, boolean, object, array
 }
 
+export interface ArrayAccess {
+  type: 'read' | 'write';
+  arrayId: string;
+  index: number;
+}
+
 export interface ExecutionStep {
   line: number;
   stdout: string;
   variables: Record<string, VariableValue>;
+  accesses: ArrayAccess[];
   explanation: string;
 }
 

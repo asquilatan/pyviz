@@ -21,6 +21,7 @@ To check it out, go to [https://asq-pyviz.netlify.app/](https://asq-pyviz.netlif
 *   **Interactive Input**: Run programs that require user input via Python's built-in `input()` function.
 *   **Modern Code Editor**: A full-featured editing experience with syntax highlighting, powered by Monaco Editor.
 *   **Customizable Themes**: Switch between different themes to find the look that suits you best.
+*   **Reversible Split View**: Toggle the split view layout to swap the editor and visualizer positions with a single click.
 *   **Resizable Layout**: Adjust the editor and visualizer panels to your liking.
 
 ## Technologies Used
